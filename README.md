@@ -1,5 +1,12 @@
 # FastAPI
 
+# Tutorial Link:
+       # ---->##### 4:02:55 hr ----> Link:https://www.youtube.com/watch?v=7t2alSnE2-I&ab_channel=Bitfumes
+
+
+
+
+
 C:\Users\AmanKumar\OneDrive - GyanSys Inc\Desktop\Github\FastAPI>cd Fastapi_app2
 C:\Users\AmanKumar\OneDrive - GyanSys Inc\Desktop\Github\FastAPI\Fastapi_app2>cd blog
 
